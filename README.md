@@ -1,3 +1,5 @@
+![patient](https://unsplash.com/photos/owBcefxgrIE)
+
 # Sentiment Analysis
 This dataset was downloaded fom this link on kaggle.com
 https://www.kaggle.com/datasets/gargmanas/sentimental-analysis-for-tweets
