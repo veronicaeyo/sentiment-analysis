@@ -24,9 +24,50 @@ The "Label(depression result)" column is a target variable which has binary entr
 
 •   Index column shows the ID value of a tweet
 
+## Requirements 
+Libraries used - To succesfully run this Jupyter notebook the following libraries need to be installed.
+
+    - Python 3     - Pandas     - Scikit-Learn     - Seaborn     - Matplotlib     - Numpy - Bertopic  
+    
+## Data Preprocessing
+Preprocessing work done on the data included:
+
+1. Checking for missing data: there was none.
+2. Tokenization of the words
+3. Removal of stopwords
+4. Removal of special Characters
+5. Dropping of the index column
+6. Lemmatizing the words
+7. creating the parts os speech tag for the words
+
+## Topic Modelling
+Salient topics was identified from the sentiments to find out the top words associated with different topics
+
+## Vectorization
+TF idf vectorizer was used to vectorize the tokens
+
+## Models 
+1. Support Vector Machine
+
+2. K Nearest Neighbors
+
+
+## Results
+Performance Evaluation Metric used:
+
+1.F1 score
+
+2.Precision
+
+3.Recall
+
+4.Support
+
+5.Confusion matrix
+
 ## Imbalance Target variable
 
 The Label was imbalanced and SMOTE technique was used to conduct oversampling and undersampling
 
 ## Model Chosen
-Logistic regression was the winner with an f1_score of 0.98 for class = 0 and 0.94 for class = 0.1
+Logistic regression was the winner with an F1_score of 0.98 for class = 0 and 0.94 for class = 0.1
