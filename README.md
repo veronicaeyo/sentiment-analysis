@@ -18,4 +18,6 @@ The "Label(depression result)" column is a target variable which has binary entr
 
 •	Label(depression result) == 0, implies that the patient survived does not have depression
 
-The message on which the Sentimental Analysis needs to be performed
+• The message to examine column shows the message on which the Sentimental Analysis needs to be performed
+
+• Index column shows the ID value of a tweet
