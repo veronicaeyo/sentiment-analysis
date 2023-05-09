@@ -1,8 +1,8 @@
-![patient](https://images.unsplash.com/photo-1521075486433-bf4052bb37bc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2088&q=8)
+![Depressed patient](https://images.unsplash.com/photo-1521075486433-bf4052bb37bc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2088&q=8)
 
 # Sentiment Analysis
 This dataset was downloaded fom this link on kaggle.com
-https://www.kaggle.com/datasets/gargmanas/sentimental-analysis-for-tweets
+[link](https://www.kaggle.com/datasets/gargmanas/sentimental-analysis-for-tweets)
 ## Context
 Finding if a person is depressed from their use of words on social media can definitely help in the cure!
 
