@@ -23,3 +23,10 @@ The "Label(depression result)" column is a target variable which has binary entr
 •   The message to examine column shows the message on which the Sentimental Analysis needs to be performed
 
 •   Index column shows the ID value of a tweet
+
+## Imbalance Target variable
+
+The Label was imbalanced and SMOTE technique was used to conduct oversampling and undersampling
+
+## Model Chosen
+Logistic regression was the winner with an f1_score of 0.98 for class = 0 and 0.94 for class = 0.1
