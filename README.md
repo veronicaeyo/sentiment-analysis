@@ -7,3 +7,15 @@ Finding if a person is depressed from their use of words on social media can def
 ### Project Objective
 The aim of this project is to predict depression in patients by analysing sentments from their tweets?
 Sentimental Analysis can be very useful to find out depression and cure it before someone gets into serious trouble.
+
+ ## The dataset
+
+The dataset contains the patient records collected from a hospital. 
+
+The "Label(depression result)" column is a target variable which has binary entries (0 or 1), indicating if the patient has depression or not.
+
+•	Label(depression result) == 1, implies that the patient has depression.
+
+•	Label(depression result) == 0, implies that the patient survived does not have depression
+
+The message on which the Sentimental Analysis needs to be performed
