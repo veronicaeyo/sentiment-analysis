@@ -40,7 +40,7 @@ Preprocessing work done on the data included:
 7. creating the parts os speech tag for the words
 
 ## Topic Modelling
-Salient topics was identified from the sentiments to find out the top words associated with different topics
+Salient topics were identified from the sentiments to find out the top words associated with different topics
 
 ## Vectorization
 TF idf vectorizer was used to vectorize the tokens
